@@ -11,3 +11,8 @@ Deserts
 ice cream
 Juices
 Falooda
+
+Cost:
+tiffin 50
+lunch 200
+dinner 100
