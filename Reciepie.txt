@@ -1,4 +1,7 @@
 idly - 2
+tea - 1
+coffe2
+
 pizza -4
 Briyani - 1
 
